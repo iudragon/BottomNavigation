@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_assistant_black"
+        android:title="Account" />
+
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_assistant_black"
+        android:title="Account" />
+
+
+    <item
+        android:id="@+id/navigation_store"
+        android:icon="@drawable/ic_assistant_black"
+        android:title="Account" />
+
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_assistant_black"
+        android:title="Account" />
+
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_assistant_black"
+        android:title="Account" />
+
+</menu>
